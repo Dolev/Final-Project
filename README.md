@@ -32,4 +32,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/naordahan/)
 
-<img src="Photos/space.jpg" height="300px" /><img src="Photos/stars.jpg" height="300px" />
+<img src="Photos/space.jpg" height="300px" />
+
+<img src="Photos/stars.jpg" height="300px" />
