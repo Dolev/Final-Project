@@ -22,6 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/arad-zekler/)
 
 <a href="https://www.linkedin.com/in/naordahan/" target="_blank">
+  <img src="https://avatars0.githubusercontent.com/u/33223417" width="70" align="left">
 </a>
 
 **Naor Dahan**
