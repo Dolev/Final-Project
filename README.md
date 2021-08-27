@@ -1,7 +1,8 @@
 # Kepler Vision! (Final project )
  Our project puts its focus on the ability to use modern data science technologies and artificial networks to give a quick and accurate classification of exoplanets in our Milky Way galaxy. In addition, analysis of information from space.
  
-<img src="logo.jpg" height="64px" />
+<img src="Photos/logo.jpg" height="64px" />
+
 
 # Goals : ( to achive our modle )
 
@@ -30,3 +31,5 @@
 **Naor Dahan**
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/naordahan/)
+
+<img src="Photos/space.jpg" height="600px" />
