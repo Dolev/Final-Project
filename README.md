@@ -14,6 +14,7 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/dolev-hindy-49924a152/)
 
 <a href="https://www.linkedin.com/in/arad-zekler/" target="_blank">
+ <img src="https://avatars0.githubusercontent.com/u/25280958" width="70" align="left">
 </a>
 
 **Arad Zekler**
