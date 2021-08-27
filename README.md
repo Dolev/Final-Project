@@ -6,7 +6,6 @@
  ## Authors
  
  <a href="https://www.linkedin.com/in/dolev-hindy-49924a152/" target="_blank">
-  <img src="https://avatars0.githubusercontent.com/u/49272962" width="70" align="left">
 </a>
 
 **Dolev Hindy**
@@ -14,7 +13,6 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/dolev-hindy-49924a152/)
 
 <a href="https://www.linkedin.com/in/arad-zekler/" target="_blank">
-  <img src="https://avatars0.githubusercontent.com/u/36300952" width="70" align="left">
 </a>
 
 **Arad Zekler**
@@ -22,7 +20,6 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/arad-zekler/)
 
 <a href="https://www.linkedin.com/in/naordahan/" target="_blank">
-  <img src="https://avatars0.githubusercontent.com/u/57680245" width="70" align="left">
 </a>
 
 **Naor Dahan**
