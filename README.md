@@ -6,6 +6,7 @@
  ## Authors
  
  <a href="https://www.linkedin.com/in/dolev-hindy-49924a152/" target="_blank">
+ <img src="https://avatars0.githubusercontent.com/u/33119992" width="70" align="left">
 </a>
 
 **Dolev Hindy**
