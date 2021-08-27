@@ -1,7 +1,9 @@
+<img align="right" src="Photos/logo.jpg" height="128px" />
+
 # Kepler Vision! (Final project )
  Our project puts its focus on the ability to use modern data science technologies and artificial networks to give a quick and accurate classification of exoplanets in our Milky Way galaxy. In addition, analysis of information from space.
  
-<img align="right" src="Photos/logo.jpg" height="128px" />
+
 
 
 # Goals : 
