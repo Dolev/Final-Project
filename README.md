@@ -17,6 +17,10 @@ distributed deep artificial networks to achieve an accurate prediction of star c
 dataset that comes from NASA\JPL databases and choose from it the features that will help us in the classification process.
 
 
+ ## Preprocessing & Processing Tools:
+ * ONE-HOT-ENCONDING
+ * Tensorflow 
+
  ## Authors
  
  <a href="https://www.linkedin.com/in/dolev-hindy-49924a152/" target="_blank">
