@@ -7,7 +7,15 @@
 
 
 # Goals : 
-distributed deep artificial networks to achieve an accurate prediction of star classifications
+
+distributed deep artificial networks to achieve an accurate prediction of star classifications.
+
+
+
+# Learning Process :
+
+dataset that comes from NASA\JPL databases and choose from it the features that will help us in the classification process.
+
 
  ## Authors
  
