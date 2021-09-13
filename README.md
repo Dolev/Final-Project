@@ -8,7 +8,7 @@
 
 # Goals : 
 
-distributed deep artificial networks to achieve an accurate prediction of star classifications.
+main goal: distributed deep artificial networks to achieve an accurate prediction of star classifications.
 
 
 
